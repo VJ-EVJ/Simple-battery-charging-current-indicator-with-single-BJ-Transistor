@@ -2,7 +2,7 @@
 
 This simple circuit shows the charging current level using just one bipolar transistor.
 
-<img src="files/simple_charging_indicator.jpg.jpg" alt="Baterija" width="400"/>
+<img src="files/simple_charging_indicator.jpg" alt="Baterija" width="400"/>
 
 A simple way to detect battery charge with reasonable accuracy. 
 Here the end of charging is detected when the battery voltage 
