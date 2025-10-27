@@ -1,3 +1,10 @@
+# Simple Battery Charging Current Indicator (with single BJT)
+
+This simple circuit shows the charging current level using just one bipolar transistor.
+
+![Simple charging indicator](simple%20charging%20indicator.jpg)
+
+
 A simple way to detect battery charge with reasonable accuracy. 
 Here the end of charging is detected when the battery voltage 
 reaches 13.6V (-200mV from the supply voltage) and the current 
