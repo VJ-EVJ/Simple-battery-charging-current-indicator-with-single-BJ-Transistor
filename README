@@ -1,31 +1,4 @@
-# Simple Battery Charging Current Indicator (with single BJT)
+# Simple Battery Charging Current Indicator (with Single BJT)
 
-This simple circuit shows the charging current level using just one bipolar transis
-
-A simple way to detect battery charge with reasonable accuracy. 
-Here the end of charging is detected when the battery voltage 
-reaches 13.6V (-200mV from the supply voltage) and the current 
-at that time is ~133mA, then the red LED goes off. The uniqueness 
-of me idea is the reduction of the base opening voltage threshold 
-by adding a dropout voltage on R2 resistor from voltage divider 
-of R2 + R3. The voltage supposedly reduces the base opening 
-voltage of the transistor from ~600mV to ~200mV. This is achieved 
-by adding a 400mV difference to the transistor base. A 0.4V voltage 
-is created with a divider from R2+R3 resistors.
-
-
-### Licensing
-
-Non-Commercial Use:
-This project is licensed under the [CC BY-NC-SA 4.0](LICENSE) license. You are free to use, modify, and share these schematics for personal, educational, or other non-commercial purposes.
-
-Commercial Use:
-Any commercial use (including manufacturing, selling products, or offering services based on these designs) is prohibited under the public license.
-
-To obtain a commercial license (standard terms: 10% profit share on value-added), please contact me using this form:
-https://forms.gle/4haBh1EvxR7UiQj28
-
----
-
-### Support
-If you found this project useful, you can support me via https://www.paypal.com/paypalme/EVJ .
+Project relocated:  
+https://github.com/EVJ-World/Simple-battery-charging-current-indicator-with-single-BJ-Transistor
